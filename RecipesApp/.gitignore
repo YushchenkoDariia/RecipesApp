@@ -1,0 +1,5 @@
+bin/
+obj/
+recipes.db
+wwwroot/uploads/*
+!wwwroot/uploads/.gitkeep
